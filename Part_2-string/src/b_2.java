@@ -3,7 +3,7 @@ public class b_2 {
    public static void main(String[] args)
     {
         String str1 = "Xin chao cac ban.";
-        String str2 = "Minh ten la Chu.";
+        String str2 = "Minh ten la Chau.";
 
 
         String startStr = "Xin";
